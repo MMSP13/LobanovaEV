@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true" namespace="AutoBase.Model" assembly="AutoBase">
+
+  <class name="AutoBase.Model.Article" table="AutoBase.Article"  xmlns="urn:nhibernate-mapping-2.2">
+    <id name="Id" column="id" type="int">
+      <generator class="identity"/>
+    </id>
+    <property name="Author" column="Author" type="String"/>
+    <property name="Email" column="Email" type="String"/>
+    <property name="TemaArticle" column="TemaArticle" type="String"/>
+    <many-to-one name="idBook" column="idBook" class ="AutoBase.Model.Book" not-null="true"/>
+  </class>
+
+</hibernate-mapping>

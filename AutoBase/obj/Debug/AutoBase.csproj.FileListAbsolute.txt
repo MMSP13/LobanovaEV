@@ -1,0 +1,80 @@
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\AutoBase.exe.config
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\AutoBase.exe
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\AutoBase.pdb
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\obj\Debug\AutoBase.csprojResolveAssemblyReference.cache
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\obj\Debug\AutoBase.MainForm.resources
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\obj\Debug\AutoBase.Properties.Resources.resources
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\obj\Debug\AutoBase.csproj.GenerateResource.Cache
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\obj\Debug\AutoBase.exe
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\obj\Debug\AutoBase.pdb
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\hibernate.cfg.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\Mappings\Engine.hbm.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\Model\Car.cs
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\Model\Engine.cs
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\GeoAPI.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\Iesi.Collections.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.PostGis.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NHibernate.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NHibernate.Spatial.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NHibernate.Spatial.MySQL.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\PowerCollections.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\GeoAPI.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\Iesi.Collections.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.PostGis.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NHibernate.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\NHibernate.Spatial.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\PowerCollections.xml
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\MySql.Data.dll
+C:\Users\Efm62\Desktop\AutoBase\AutoBase\bin\Debug\Mappings\Car.hbm.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\AutoBase.exe.config
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\obj\Debug\AutoBase.pdb
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\hibernate.cfg.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\AutoBase.exe
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\AutoBase.pdb
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\GeoAPI.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Iesi.Collections.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\MySql.Data.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.PostGis.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NHibernate.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NHibernate.Spatial.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NHibernate.Spatial.MySQL.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\PowerCollections.dll
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\GeoAPI.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Iesi.Collections.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.PostGis.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NHibernate.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\NHibernate.Spatial.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\PowerCollections.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\obj\Debug\AutoBase.csprojResolveAssemblyReference.cache
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\obj\Debug\AutoBase.MainForm.resources
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\obj\Debug\AutoBase.Properties.Resources.resources
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\obj\Debug\AutoBase.csproj.GenerateResource.Cache
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\obj\Debug\AutoBase.exe
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Mappings\Article.hbm.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Mappings\Book.hbm.xml
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Model\Article.cs
+D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Model\Book.cs
