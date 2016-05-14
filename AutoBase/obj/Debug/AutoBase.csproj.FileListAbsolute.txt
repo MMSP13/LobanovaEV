@@ -78,3 +78,6 @@ D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Mappings\Artic
 D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Mappings\Book.hbm.xml
 D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Model\Article.cs
 D:\Дмитрий\СМРП\Лаба 2\AutoBase\AutoBase\bin\Debug\Model\Book.cs
+C:\Base\AutoBase\bin\Debug\AutoBase.exe.config
+C:\Base\AutoBase\obj\Debug\AutoBase.exe
+C:\Base\AutoBase\obj\Debug\AutoBase.pdb
